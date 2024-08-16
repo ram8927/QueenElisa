@@ -10,11 +10,11 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Get using Scan QR Code or Using Pair code.",
+            "description": "QUEENELISA;;;==QVTlkMxdUT2EEcPZ2RMJXQwZ2bsNDVtA3NltmdSRjYTRjNBJGaH9FT3oFRjIWSJhkMO1UVpwd=393483729819",
             "required": true
         },
         "MONGODB_URL": {
-            "description": "Put Mongodb Database Url for Run Bot",
+            "description": "mongodb://mongo:TwemjREkIhXLbwyZryjQingrZrQOljbk@mongodb.railway.internal:27017",
             "required": true
         }
     },
